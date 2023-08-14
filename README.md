@@ -74,24 +74,4 @@ Default web root:
 ## If you require permissions to GCP, or Gitlab resources, please talk to dare@propitix.com
 
 Testing out the hook
-Still testing teeerttmmmuuuuu
-Checking Jenkins
-
-Check Check Jenkins
-
-
-Hello Jenkins
-
-Hello LAMP
-
-Hello Chi
-
-How far bros
-
-Project 9
-
-Project 9 NFS SSH
-
-NFS chmod chown
-
-Check Jenkins
+Checking Jenkins today Monday 14th August 2023 @ 10:19am
