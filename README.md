@@ -73,5 +73,5 @@ Default web root:
 
 ## If you require permissions to GCP, or Gitlab resources, please talk to dare@propitix.com
 
-Testing out the hook
-Checking Jenkins today Monday 14th August 2023 @ 10:19am
+Testing out the webhook
+Checking Jenkins today Monday 14th August 2023 @ 10:19am.
